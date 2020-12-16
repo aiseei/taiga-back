@@ -17,7 +17,7 @@ importlib-metadata==2.0.0  # via -c requirements.txt, pluggy, pytest
 iniconfig==1.1.1          # via pytest
 packaging==20.4           # via -c requirements.txt, pytest
 pluggy==0.13.1            # via pytest
-py==1.9.0                 # via pytest
+py==1.10.0                 # via pytest
 pyparsing==2.4.7          # via -c requirements.txt, packaging
 pytest-django==4.1.0      # via -r requirements-devel.in
 pytest==6.1.2             # via -r requirements-devel.in, pytest-django
