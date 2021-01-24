@@ -8,6 +8,7 @@ Taiga6 is just around the corner. Please read [our pre-announcement](https://blo
 [![Managed with Taiga.io](https://img.shields.io/badge/managed%20with-TAIGA.io-709f14.svg)](https://tree.taiga.io/project/taiga/ "Managed with Taiga.io")
 [![Tests Status](https://github.com/taigaio/taiga-back/workflows/Taiga%20Back%20-%20Test%20and%20Coverage/badge.svg?branch=master)](https://github.com/taigaio/taiga-back/actions?query=workflow%3A%22Taiga+Back+-+Test+and+Coverage%22 "Tests Status")
 [![Coverage Status](https://img.shields.io/coveralls/taigaio/taiga-back/master.svg)](https://coveralls.io/r/taigaio/taiga-back?branch=master "Coverage Status")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faiseei%2Ftaiga-back.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Faiseei%2Ftaiga-back?ref=badge_shield)
 
 
 ## Contribute to Taiga ##
@@ -37,6 +38,9 @@ Every code patch accepted in taiga codebase is licensed under [AGPL v3.0](http:/
 
 Please read carefully [our license](https://github.com/taigaio/taiga-back/blob/master/LICENSE) and ask us if you have any questions as well as the [Contribution policy](https://github.com/taigaio/taiga-back/blob/master/CONTRIBUTING.md).
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faiseei%2Ftaiga-back.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Faiseei%2Ftaiga-back?ref=badge_large)
 
 #### Bug reports, enhancements and support ####
 
