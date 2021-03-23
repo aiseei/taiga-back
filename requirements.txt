@@ -38,7 +38,7 @@ idna==2.8                 # via requests
 importlib-metadata==2.0.0  # via kombu
 jinja2==2.11.2            # via django-jinja
 kombu==4.6.11             # via celery
-lxml==4.6.1               # via cairosvg, premailer
+lxml==4.6.3               # via cairosvg, premailer
 markdown==3.1.1           # via -r requirements.in
 markupsafe==1.1.1         # via jinja2
 netaddr==0.7.19           # via -r requirements.in
